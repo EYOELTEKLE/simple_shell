@@ -41,3 +41,9 @@
 
 - What is EOF / “end-of-file”?
 
+# Usage
+
+- gcc *.c -o shell
+
+- ./shell
+
